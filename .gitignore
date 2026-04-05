@@ -38,3 +38,5 @@ application-local.yml
 .env
 *.env
 replacements.txt
+DEVLOG.md
+.claude/
